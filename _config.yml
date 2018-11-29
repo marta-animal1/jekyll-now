@@ -9,8 +9,7 @@ name: Marta
 description: Rinos 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/search?q=fat+rhino&rlz=1CAACAC_enUS823&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAv4aMyc_eAhVnjoMKHSFaC9oQ_AUIEygB&biw=1366&bih=618&safe=active&ssui=on#imgrc=TVSttrGbzmaeHM:
-
+avatar: 
 #
 # Flags below are optional
 #
@@ -21,12 +20,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: marta-animal1
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
